@@ -1,0 +1,25 @@
+.header {
+    background-color: bisque;
+    height: 25%;
+    width:75%;
+}
+.main{
+    background-color: black;
+    float: right;
+    height: 60%;
+    width: 40%;
+}
+.sidebar {
+    background-color: aquamarine;
+    float: left;
+    height: 80%;
+    width: 30%;
+}
+.container {
+    display:block;
+    margin: 10%;
+}
+.main img {
+    width: 40px;
+    height: 20px;
+}
